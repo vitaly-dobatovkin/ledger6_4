@@ -1,0 +1,4 @@
+.Box-body {
+    border-bottom: var(--borderWidth-thin, max(1px, 0.0625rem)) solid var(--color-border-default);
+    padding: var(--stack-padding-normal, 1rem);
+}
